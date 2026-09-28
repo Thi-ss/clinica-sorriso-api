@@ -29,7 +29,7 @@
 }
 
 #galeria {
-    margin: 20px;
+    margin: 20px 5px;
     gap: 20px;
     display: flex;
     flex-wrap: wrap;
@@ -53,4 +53,22 @@
 
 #section-logo {
     text-align: right;
+}
+
+table {
+    background-color: rgba(213, 221, 221, 0.808);
+    margin: 20px;
+}
+
+thead {
+    background-color: rgb(129, 208, 233);
+}
+
+tr, td {
+    padding: 10px;
+}
+
+footer {
+    background-color: rgb(163, 203, 241);
+    padding: 20px;
 }
