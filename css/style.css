@@ -16,11 +16,23 @@
     gap: 20px;
 }
 
+a {
+    color: rgb(0, 0, 0);
+    background-color: rgb(206, 252, 255);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
 #section-intro {
     padding: 20px;
     display: flex;
     justify-content: space-between;
     background-color: rgb(226, 243, 245);
+}
+
+ul {
+    margin: 0px 20px;
 }
 
 #logo {
